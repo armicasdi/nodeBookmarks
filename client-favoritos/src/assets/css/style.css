@@ -1,0 +1,12 @@
+body {
+    background: #eeeeee;
+}
+
+
+.bordeNegro{
+    border: 5px solid black;
+}
+
+.bordeGreen{
+    border: 5px solid green;
+}
